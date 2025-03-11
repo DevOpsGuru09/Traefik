@@ -1,0 +1,23 @@
+---
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: traefik
+  namespace: traefik
+  annotations: 
+    kubernetes.io/ingress.class: traefik-external
+spec:
+  entryPoints:
+    - web
+    - websecure
+  routes:
+    - match: Host(`traefik.devopsgurupro.in`) # Change Hostname as per Your Choice
+      kind: Rule
+      middlewares:
+        - name: auth
+          namespace: traefik
+      services:
+        - kind: TraefikService
+          name: api@internal
+#  tls:
+#    secretName: local-example-com-staging-tls
