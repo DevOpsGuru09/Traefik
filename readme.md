@@ -1,39 +1,5 @@
-# Traefik Configuration Repository
-![Traefik Logo](traefik-logo.png)
-
-## Overview
-This repository provides a comprehensive collection of configuration files and deployment guides for Traefik, a modern cloud-native application proxy designed for microservices and Kubernetes environments.
-
-## Repository Contents
-- **Helm Chart Values**: For Traefik installation.
-- **Security Configurations**: For the Traefik dashboard.
-- **IngressRoute Examples**: For various applications.
-- **Middleware Configurations**: For common use cases.
-- **Authentication and TLS Configuration Templates**.
-
-## Configuration Guidelines
-The configurations in this repository adhere to best practices for:
-- **Security Hardening**
-- **Performance Optimization**
-- **Resource Allocation**
-- **High Availability Setup**
-
-## Requirements
-To use this repository effectively, ensure you have:
-- **Kubernetes Cluster**: Version 1.19 or later.
-- **Helm**: Version 3.0 or later.
-- **kubectl**: Configured to communicate with your cluster.
-
-## Documentation
-For comprehensive documentation, usage guides, and advanced configuration examples, please visit our official documentation site:
-[Complete Traefik Documentation](https://example.com/traefik-docs)
-
-## Contributing 🚀
-Contributions are welcome! Please follow the standard pull request process. Contact us at [support@example.com](mailto:support@example.com) for more information.
-
-
 <h1>Traefik Configuration Repository</h1>
-<img class="logo" src="traefik-logo.png" alt="Traefik Logo">
+<img class="logo" src="./img/logo.png" alt="Traefik Logo">
 
 <h2>Overview</h2>
 <p>This repository provides a comprehensive collection of configuration files and deployment guides for Traefik, a modern cloud-native application proxy designed for microservices and Kubernetes environments. Traefik acts as an intelligent edge router that intercepts and routes all requests from the outside world to your services.</p>
