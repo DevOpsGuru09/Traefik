@@ -32,7 +32,7 @@
 
 <h2>Documentation</h2>
 <p>For comprehensive documentation, usage guides, and advanced configuration examples, please visit our official documentation site:</p>
-<a href="https://example.com/traefik-docs">Complete Traefik Documentation</a>
+<a href="https://www.devopsgurupro.in">Complete Traefik Documentation</a>
 
 <h2>Badges</h2>
 <span class="badge">Version 1.0</span>
@@ -55,4 +55,4 @@
 </table>
 
 <h2>Contributing 🚀</h2>
-<p>Contributions are welcome! Please follow the standard pull request process. Contact us at <a href="mailto:support@example.com">support@example.com</a> for more information.</p>
+<p>Contributions are welcome! Please follow the standard pull request process. Contact us at <a href="www.devopsgurupro.in">support@example.com</a> for more information.</p>
