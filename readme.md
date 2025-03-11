@@ -1,7 +1,5 @@
 <h1>🚀 Traefik Configuration Repository 🚀</h1>
-<div style="text-align: center;">
-    ![Traefik Logo](./img/logo.png)
-</div>
+<img src="./img/logo.png" alt="Traefik Logo" style="center">
 
 <h2>📋 Overview</h2>
 <p>This repository provides a comprehensive collection of configuration files and deployment guides for Traefik, a modern cloud-native application proxy designed for microservices and Kubernetes environments. Traefik acts as an intelligent edge router that intercepts and routes all requests from the outside world to your services.</p>
