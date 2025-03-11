@@ -55,4 +55,4 @@
 </table>
 
 <h2>Contributing 🚀</h2>
-<p>Contributions are welcome! Please follow the standard pull request process. Contact us at <a href="www.devopsgurupro.in">DevOpsGuruPro</a> for more information.</p>
+<p>Contributions are welcome! Please follow the standard pull request process. Contact us at <a href="https://www.devopsgurupro.in">DevOpsGuruPro</a> for more information.</p>
